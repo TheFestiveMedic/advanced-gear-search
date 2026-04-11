@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.advancedgearsearch;
+package com.thefestivemedic.advancedgearsearch;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;

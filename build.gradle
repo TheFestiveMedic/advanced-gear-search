@@ -30,7 +30,7 @@ dependencies {
 group = 'com.advancedgearsearch'
 version = '1.0-SNAPSHOT'
 project.ext {
-	pluginMainClass = 'net.runelite.client.plugins.advancedgearsearch.AdvancedGearSearchPlugin'
+	pluginMainClass = 'com.thefestivemedic.advancedgearsearch.AdvancedGearSearchPlugin'
 }
 tasks.withType(JavaCompile).configureEach {
 	options.encoding = 'UTF-8'

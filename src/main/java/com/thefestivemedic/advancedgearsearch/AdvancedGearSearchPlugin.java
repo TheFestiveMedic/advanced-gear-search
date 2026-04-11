@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.advancedgearsearch;
+package com.thefestivemedic.advancedgearsearch;
 import java.awt.event.KeyEvent;
 import java.awt.Component;
 import com.google.inject.Provides;
